@@ -1,0 +1,45 @@
+/* styling bs */
+html {
+  height: 100%;
+  background: linear-gradient(#ffffff 0%, #5b4394 100%);
+}
+
+h1 {
+  color: #5b4394;
+  font-family: cursive;
+}
+
+p {
+  font-family: cursive;
+}
+
+button {
+  height: 200px;
+  width: 100%;
+  background-color: slateblue;
+  color: white;
+}
+
+button.upgrade-btn {
+  height: 100px;
+  width: 100%;
+  background-color: slateblue;
+  color: white;
+}
+
+button.load-btn {
+  height: 100px;
+  width: 50%;
+  background-color: slateblue;
+  color: white;
+}
+
+button.save-btn {
+  height: 100px;
+  width: 50%;
+  background-color: slateblue;
+  color: white;
+  float: left;
+}
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family");
